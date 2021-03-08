@@ -1,0 +1,21 @@
+#orange {
+    background-color: #FF8F00;
+}
+
+a.btn,
+button.btn {
+    background-color: #181485;
+}
+
+.text-dark-blue {
+    color: #181485 !important;
+    letter-spacing: -2px;
+    font-size: 32px;
+    font-family: "Barlow", sans-serif;
+}
+
+@media (max-width:768px) {
+    .w-50 {
+        width: 75% !important;
+    }
+}
